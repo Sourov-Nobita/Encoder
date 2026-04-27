@@ -1,0 +1,47 @@
+# Core dependencies
+urllib3
+requests
+yt-dlp[default,curl_cffi]
+asyncio
+pytz
+python-dotenv
+
+# Telegram bot framework
+python-telegram-bot
+telegram
+pyrofork==2.3.45
+tgcrypto
+
+# Async utilities
+aiohttp
+aiofiles
+aioshutil
+
+# Web framework
+Flask
+gunicorn
+werkzeug
+humanize
+
+# HTML & parsing
+lxml_html_clean
+bs4
+feedparser
+html-telegraph-poster
+
+# Database
+pymongo
+motor
+dnspython
+
+# System & media
+psutil
+ffmpeg
+static-ffmpeg
+Pillow
+hachoir
+
+# Other utils
+pycountry
+uvloop==0.21.0
+missAV_api

@@ -1,0 +1,43 @@
+[
+    {
+        "session": "bot 2",
+        "token": "8604455104:AAGMTHoyDmxiipHop8EqwJDC8DwFN6B9wyE",
+        "api_id": "22884130",
+        "api_hash": "a69e8b16dac958f1bd31eee360ec53fa",
+        "workers": 8,
+        "db_uri": "mongodb+srv://Fugui:tianlu@cluster0.6hyrp0r.mongodb.net/?appName=Cluster0",
+        "db_name": "lelouch",
+        "fsubs": [],
+        "auto_del": 600,
+        "messages": {
+            "START": "𝖭𝗈 𝖳𝖾𝗑𝗍 !",
+            "FSUB": "𝖭𝗈 𝖳𝖾𝗑𝗍 !",
+            "ABOUT": "𝖭𝗈 𝖳𝖾𝗑𝗍 !",
+            "HELP": "𝖭𝗈 𝖳𝖾𝗑𝗍 !",
+            "SUPPORT_GRP": "https://t.me/Weilai_Chat",
+            "OWNER_URL": "https://t.me/Weilai_Support",
+            "NETWORK_URL": "https://t.me/Team_Weilai",
+            "REPLY": "<b>ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘᴀɪ!!</b>",
+            "START_PHOTO": "https://graph.org/file/0124e3b6eea95771bfda9-b41522117d67905955.jpg",
+            "ABOUT_PHOTO": "https://graph.org/file/4fd0d66ef084773caf33b-c5b18273e9f07cd7d7.jpg",
+            "FSUB_PHOTO": "https://graph.org/file/d48f3b1c7b41495ce1a0c-4d87ff09137971e900.jpg",
+            
+            "SHORTNER_PHOTO": "https://graph.org/file/d48f3b1c7b41495ce1a0c-4d87ff09137971e900.jpg",
+            "PREMIUM_CONTACT": "https://t.me/Vecna_Support",
+            "SHORTNER_MSG": "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download</b>",
+            "APPROVAL_PHOTO": "https://graph.org/file/a56adfdad87ab7e1e326f-10b00b33842346f3a6.jpg",
+            "APPROVAL_WELCOME_TEXT": "<b>ʜᴇʏ {mention},</b>\n\n<blockquote><b>ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ᴛᴏ ᴊᴏɪɴ {chat_title} ʜᴀs ʙᴇᴇɴ ᴀᴘᴘʀᴏᴠᴇᴅ.</b></blockquote>",
+            "APPROVAL_BUTTONS": [
+                [
+                    {"text": "𝖶𝖾𝗂 𝖫𝖺𝗂 ( 𝖢𝗁𝖺𝗍 𝖦𝗋𝗈𝗎𝗉 )", "url": "https://t.me/Weilai_Chat"}
+                ],
+                [
+                    {"text": "❐ 𝖴𝗉𝖽𝖺𝗍𝖾𝗌", "url": "https://t.me/Weilai_Updates"}
+                ]
+            ]
+        },
+        "admins": [],
+        "protect": false,
+        "disable_btn": false
+    }
+]
